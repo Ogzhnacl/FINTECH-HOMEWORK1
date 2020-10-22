@@ -18,8 +18,7 @@ TradingView is a useful tool for both novice and experienced traders. It’s ext
    There is a lot to unpack here. The default graph is a candles’ graph. It comes with the trading volume at the bottom by default, though you can add more indicators to it. The free plan only allows one indicator, but with the other plans, you can add more.
 
 
-   ![TradingView](
-   https://github.com/Ogzhnacl/FINTECH-HOMEWORK1/blob/main/chart.png)
+   ![CHART](https://github.com/Ogzhnacl/FINTECH-HOMEWORK1/blob/main/CHART.PNG)
 
    At the top, we can pick the type of graph we want to see, the time intervals, indicators, alerts, and financial data. These are the basic tools for us to analyze the graph. Furthermore, I would like to highlight their indicators’ functionality, though. Besides the dozens of built-in indicators, you can also access indicators created by the community, and see the underlying scripts. This community aspect is a great way to learn how other more experienced traders have created their indicators, and what they are good for.
 
