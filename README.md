@@ -19,7 +19,7 @@ TradingView is a useful tool for both novice and experienced traders. It’s ext
 
 
    ![TradingView](
-   chart.png)
+   https://github.com/Ogzhnacl/FINTECH-HOMEWORK1/blob/main/chart.png)
 
    At the top, we can pick the type of graph we want to see, the time intervals, indicators, alerts, and financial data. These are the basic tools for us to analyze the graph. Furthermore, I would like to highlight their indicators’ functionality, though. Besides the dozens of built-in indicators, you can also access indicators created by the community, and see the underlying scripts. This community aspect is a great way to learn how other more experienced traders have created their indicators, and what they are good for.
 
@@ -35,7 +35,7 @@ TradingView is a useful tool for both novice and experienced traders. It’s ext
   TradingView’s screener is, in my opinion, a very middle-of-the-road scanner. It shines where TradingView shines, which is ease of use and a satisfying user interface, but it lacks in customization. There is a limited amount of screening options, and many indicators/fundamental pieces of data included in the TradingView infrastructure are not available for use in the screener. Additionally, the indicators that are included, cannot be manipulated. For example, if you have a strategy using the 90 period EMA and the 5 period Average Directional Index, you would not be able to scan for setups in TradingView, instead, you would have to use the closest options which are the 14 period ADX and 100 period EMA.
 
     ![TradingView](
-   screeners.png)
+   https://github.com/Ogzhnacl/FINTECH-HOMEWORK1/blob/main/screeners.png)
 
   Screeners also include TradingView’s rating, which varies from strong sell to strong buy. Those ratings are measured based on a number of technical indicators and are very prominent in the technical details’ section of individual stocks. More on this in the technical analysis’ section below. It’s possible to either use their table interface or alternatively download the resulting screener data as a CSV.
 
@@ -49,8 +49,8 @@ TradingView is a useful tool for both novice and experienced traders. It’s ext
   - choose a specific price or a % move;
   - set up a webhook and have an external application act on it too, but that might require some development effort.
 
-  ![TradingView](
-   alert.png)
+  ![Alert](
+   https://github.com/Ogzhnacl/FINTECH-HOMEWORK1/blob/main/ALERT.PNG)
 
 
 - COMMUNITY
@@ -59,7 +59,7 @@ TradingView is a useful tool for both novice and experienced traders. It’s ext
 
 
   ![TradingView](
-   IDEAS.png)
+   https://github.com/Ogzhnacl/FINTECH-HOMEWORK1/blob/main/IDEAS.png)
 
 
   Besides technical analysis, ideas in TradingView can be used for other purposes. It’s possible to create ideas around risk management, trading plans, short/long positions, and so on. Each asset has top authors and top ideas associated with them, which makes it easier to choose whom to follow for the best content.
@@ -74,7 +74,7 @@ TradingView is a useful tool for both novice and experienced traders. It’s ext
   Pine Script is TradingView’s proprietary scripting language which is surprisingly easy to learn and apply quickly, even for non-coders. With it you can backtest strategies, and if your broker is available, trade them live. For example, you can tell Pine Script to buy everytime the 50 day SMA crosses above the 200 day SMA, and flatten your position when the inverse happens, with a rule against shorting, and see the results on any asset. Of course, much more complex strategies can be tested and coded.
 
   ![TradingView](
-   SCRIPT.png)
+   https://github.com/Ogzhnacl/FINTECH-HOMEWORK1/blob/main/SCRIPT.png)
 
    In Pine script, you will either be creating an indicator or a strategy.
 
@@ -84,14 +84,14 @@ TradingView is a useful tool for both novice and experienced traders. It’s ext
    With TradingView, we have access to a broad set of market data on stocks, futures, commodities, forex, CFDs, and cryptocurrencies such as bitcoin. Most of the major indices are covered and there are over 50+ exchanges and data feeds available for us to slice into custom time intervals as needed. On top of that, TradingView also exposes fundamental and economic data, which is quite useful to investors.
   
   ![TradingView](
-   MARKET.png)
+   https://github.com/Ogzhnacl/FINTECH-HOMEWORK1/blob/main/MARKET.png)
 
 - FUNDAMENTALS
   
    Even though TradingView is more geared towards technical analysis, it also includes a number of features and data on company fundamentals.
 
    ![TradingView](
-   FUNDAMENTALS.png)
+   https://github.com/Ogzhnacl/FINTECH-HOMEWORK1/blob/main/FUNDAMENTALS.png)
 
    Their data enables insights into how companies are doing beyond just their stock price.
 
@@ -105,4 +105,4 @@ TradingView is a useful tool for both novice and experienced traders. It’s ext
 
 
    ![TradingView](
-   INDICATORS.png)
+   https://github.com/Ogzhnacl/FINTECH-HOMEWORK1/blob/main/INDICATORS.png)
