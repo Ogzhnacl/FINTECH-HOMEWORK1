@@ -145,3 +145,15 @@ For that reason, you have to define what is most important to you. If it is char
 And if you want to take your trading to the next level, then Trade Ideas is the only option you have. Their artificial intelligence-powered stock screener finds the trades with the best potential every day. They also provide a free trading room and hold free webinars every week.
 
 Value Investors take a closer look at Stock Rover since they allow to download 10 years historical data for over 650 finance metrics.
+
+
+###### RESOURCE
+---
+
+https://investorjunkie.com
+https://www.tradingview.com/
+https://compounding.works/
+https://toptradereviews.com/
+https://daytradereview.com/
+https://techcrunch.com/
+https://daytradingz.com/
